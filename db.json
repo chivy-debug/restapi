@@ -1,0 +1,40 @@
+{
+	"posts" : [
+		{
+			"id" : 1,
+			"title" : "Sinh viên xếp hàng dài hơn 100m trước tiệm bánh, lý do gây xúc động",
+			"body" : "Hình ảnh các sinh viên của Đại học Công nghệ Phúc Kiến (thành phố Phúc Châu, Trung Quốc) xếp hàng dài trước một tiệm bánh gây xúc động dư luận nước này.",
+		},
+		{
+			"id" : 2,
+			"title" : "Xúc động cảnh chồng bỏng nặng 90% vì quay vào nhà cứu vợ khỏi đám cháy",
+			"body" : "Trong ngọn lửa bùng lên dữ dội, một người đàn ông tại Trung Quốc không màng nguy hiểm, lao vào cứu người vợ đang mắc kẹt bên trong. Sự mạo hiểm khiến ông bị bỏng 90%, qua đời không lâu sau đó.",
+			"base64Image" : ""
+		},
+		{
+			"id" : 3,
+			"title" : "Mẹ chết lặng khi xem video con trai 1 tháng tuổi bị giúp việc bạo hành",
+			"body" : "Khi kiểm tra camera trong phòng con trai hơn một tháng tuổi, chị Y. (ở Hà Nội) bàng hoàng chứng kiến cảnh người giúp việc bạo hành đứa trẻ nhiều lần.",
+			"base64Image" : ""
+		}
+	],
+	"users" : [
+		{
+			"username" : "Vy",
+			"password" : "2180609392",
+			"fullname" : "Duong Chi Vy"
+		},
+		{
+			"username" : "Thang",
+			"password" : "2180609654",
+			"fullname" : "Ha Huy Chien Thang"
+		},
+		{
+			"username" : "Hoang",
+			"password" : "2180609567",
+			"fullname" : "Nguyen Le Huy Hoang"
+		}
+	
+	]
+	
+}
